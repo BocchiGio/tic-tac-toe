@@ -1,3 +1,12 @@
+### Easter Egg
+Crea este patrón en el juego
+| | | |
+|:---:|:---:|:---:|
+| <img src="src/assets/cat.png" width="75"> | <img src="src/assets/dog.png" width="75"> | <img src="src/assets/cat.png" width="75"> |
+| <img src="src/assets/dog.png" width="75"> | <img src="src/assets/dog.png" width="75"> | <img src="src/assets/dog.png" width="75"> |
+| <img src="src/assets/cat.png" width="75"> | **(Vacío)** | <img src="src/assets/cat.png" width="75"> |
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
